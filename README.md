@@ -3,23 +3,23 @@
 ## Create a tiny SPA application with the following business requirements:
 
 * SPA should contain Order list (table) with a button "Import Orders" to import more External Orders
-![Order List](raw/Order%2520List.png)
+![alt text](https://gist.github.com/leonardinius/c97df5dc62ec1b4cea18bdf323b04af4/raw/Order%2520List.png)
 * "Import Orders" should initiate a multi-step wizard (Modal window)
   * "Find Order"
 
-  ![Find Order 1](raw/Find%2520Order%25201.png)
+![alt text](https://gist.github.com/leonardinius/c97df5dc62ec1b4cea18bdf323b04af4/raw/Find%2520Order%25201.png)
 
-  ![Find Order 2](raw/Find%2520Order%25202.png)
+![alt text](https://gist.github.com/leonardinius/c97df5dc62ec1b4cea18bdf323b04af4/raw/Find%2520Order%25202.png)
 
   * "Prepare Products"
 
-  ![Prepare Products 1](raw/Prepare%2520Products%25201.png)
+![alt text](https://gist.github.com/leonardinius/c97df5dc62ec1b4cea18bdf323b04af4/raw/Prepare%2520Products%25201.png)
 
-  ![Prepare Products 2](raw/Prepare%2520Products%25202.png)
+![alt text](https://gist.github.com/leonardinius/c97df5dc62ec1b4cea18bdf323b04af4/raw/Prepare%2520Products%25202.png)
 
   * "Confirm and Order"
   
-  ![Confirm and Order](raw/Confirm%2520Order.png)
+![alt text](https://gist.github.com/leonardinius/c97df5dc62ec1b4cea18bdf323b04af4/raw/Confirm%2520Order.png)
 
 * SPA must perform step navigation according to the following rules
   * Navigation to the `Next` step is available only of all required data is fulfilled
