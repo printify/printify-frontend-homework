@@ -1,5 +1,3 @@
-###### Make sure to use [Trailing slash link](/leonardinius/c97df5dc62ec1b4cea18bdf323b04af4/) to read this gist content.
-
 ## Create a tiny SPA application with the following business requirements:
 
 * SPA should contain Order list (table) with a button "Import Orders" to import more External Orders
