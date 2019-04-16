@@ -1,7 +1,7 @@
 ## Create a tiny SPA application with the following business requirements:
 
 * SPA should contain Order list (table) with a button "Import Orders" to import more External Orders
-![Order List](Order List.png)
+![Order List](Order_List.png)
 * "Import Orders" should initiate a multi-step wizard (Modal window)
   * "Find Order"
 
