@@ -29,7 +29,7 @@
 
 ## Technical requirements:
 
-* You have total control over tools, as long as SPA is written with BackboneJS (and Handlebars.js templates).
+* You have total control over tools, as long as SPA is written with Angular.
 * You have control over the choice of UI toolikts, libraries or plain vanilla HTML as long as it works well in modern web browsers.
 
 ## What gets evaluated:
