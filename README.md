@@ -25,7 +25,8 @@
 * SPA must consume REST JSON API endpoints for obtaining the data. 
   Static JSON files served over HTTP(S) are acceptable.  
 * SPA must paginate data responses over the wire.
-* Business requirements might seem underspecified (on purpose). Please do not hesistate and reach out to gather more insights or clarify things as much as possible.  
+* There should be unit tests covering functionality
+* Business requirements might seem underspecified (on purpose). Please do not hesistate and reach out to gather more insights or clarify things as much as possible.
 
 ## Technical requirements:
 
@@ -36,6 +37,7 @@
 
 * Conformance to business requirements
 * Code quality, including testability
+* Unit tests
 * How easy it is to get run and tinker with the SPA (don't make us fetch 500K+ npm modules please 😉)
 
 Good luck and have fun!
